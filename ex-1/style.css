@@ -1,1 +1,26 @@
 /* Start coding here */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    color: rgb(66, 89, 105);
+    background-color: rgb(106, 146,173);
+    height: 8vh;
+    width: 100vw;
+    height: 10vh;
+    padding: 30px;
+
+}
+
+.topic{
+    color: #667292;
+    width: 500px;
+    height: 300px;
+    background-color:#cfe0e8;
+    border: 2px solid #667292;
+    padding: 30px;
+    margin: 50px;
+}
